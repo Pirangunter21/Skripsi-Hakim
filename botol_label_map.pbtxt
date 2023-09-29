@@ -1,0 +1,10 @@
+item {
+    name: "bb_normal",
+    id: 1,
+    display_name: "bb_normal"
+}
+item {
+    name: "bb_rusak",
+    id: 2,
+    display_name: "bb_rusak"
+}
